@@ -1,0 +1,23 @@
+Advance Excel Assignment 1
+
+1. What do you mean by cells in an excel sheet?
+ans- Cell is rectangle boxin excel, it is intersection of row and coloumn.In one sheet there in no of cell.
+
+2. How can you restrict someone from copying a cell from your worksheet?
+-go to review- in review there is option restrict sheet- go to that - choose option which you want to apply- set a password then ok
+ -If anyone tring to copy the cell they wiil not fro that they need to unprotect that sheet.
+
+3. How to move or copy the worksheet into another workbook?
+- open that perticular sheet which we want to copy then at bottom in edit bar right chick the choose move or copy then one tab will be open
+then there is option to book where we want to copy new book or exixting one choose that and there is one more option where to if you want to create copy of that 
+there is option create copy so you need to check that and ok.
+
+4. Which key is used as a shortcut for opening a new window document?
+-ctrl+n
+
+5. What are the things that we can notice after opening the Excel interface?
+-there is so many things like when we open excel interface we can see formula bar, status bar, zoom slider etc
+
+6. When to use a relative cell reference in excel?
+-whenever you need to repeat the same calculation across multiple rows or columns.
+ex- if you write some formula in A1 and you want same to A2 that time you can you.
